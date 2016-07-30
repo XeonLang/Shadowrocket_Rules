@@ -16,6 +16,7 @@ dns-server = 114.114.114.114, 119.29.29.29, 223.5.5.5
 Proxy = select,🇭🇰HK,🇸🇬SG,🇯🇵JP,🇺🇸US,🇰🇷KR
 
 
+
 [Rule]
 
 // Just for test proxy
